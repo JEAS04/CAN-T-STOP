@@ -1,1 +1,2 @@
-# CAN-T-STOP
+Proyecto GDB:
+Diagrama de clases:
